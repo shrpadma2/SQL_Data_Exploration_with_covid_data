@@ -4,6 +4,9 @@ This project explores the data in covid dataset by using variety of queries in S
 
 The Covid Dataset available on [link](https://ourworldindata.org/covid-deaths).
 
+The visualization of few of the findings is uploaded on Tableau [(link)](https://public.tableau.com/app/profile/shreyas.sunku.padmanabha/viz/Covid_Dashboard_16745410890040/Dashboard3). <br>
+
+
 ## **Database, Database Tool** 
 
 * SQL Server
